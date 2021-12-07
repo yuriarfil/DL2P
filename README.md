@@ -1,2 +1,2 @@
 # DL2P
-Dino lite to Q-DAS Procella
+DinoLite (DinoCapture 2.0) to Q-DAS Procella
